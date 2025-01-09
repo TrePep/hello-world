@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Hi,
+My name is Tre Pepper and I am looking forward to this course
